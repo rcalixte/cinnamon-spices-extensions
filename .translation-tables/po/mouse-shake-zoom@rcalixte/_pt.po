@@ -1,0 +1,10 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+
+#. 5.6->settings-schema.json->shake-threshold->units
+msgid "px"
+msgstr ""

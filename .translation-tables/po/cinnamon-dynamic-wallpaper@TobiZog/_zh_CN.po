@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# This file is put in the public domain.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+
+#: 5.4/extension.js:76
+msgid "Check the preferences to choose a dynamic wallpaper"
+msgstr ""
+
+#: 5.4/extension.js:113
+msgid "Error!"
+msgstr ""
+
+#: 5.4/extension.js:139
+msgid "Open settings"
+msgstr ""
+
+#: 5.4/res/preferences.glade:135
+msgid "Image Source"
+msgstr ""
+
+#: 5.4/res/preferences.glade:186
+msgid "Image Set"
+msgstr ""
+
+#: 5.4/res/preferences.glade:286
+msgid "Source Folder"
+msgstr ""
+
+#: 5.4/res/preferences.glade:336
+msgid "Select an image set"
+msgstr ""
+
+#: 5.4/res/preferences.glade:430
+msgid "Select a source folder"
+msgstr ""
+
+#: 5.4/res/preferences.glade:440
+msgid "Open file selection dialog"
+msgstr ""
+
+#: 5.4/res/preferences.glade:492
+msgid "Image Selection"
+msgstr ""
+
+#: 5.4/res/preferences.glade:930
+msgid "Image Configuration"
+msgstr ""
+
+#: 5.4/res/preferences.glade:948
+msgid "Period estimation"
+msgstr ""
+
+#: 5.4/res/preferences.glade:1001
+msgid "Use Network Location"
+msgstr ""
+
+#: 5.4/res/preferences.glade:1051
+msgid "Custom Location"
+msgstr ""
+
+#: 5.4/res/preferences.glade:1103
+msgid "Custom Time Periods"
+msgstr ""
+
+#: 5.4/res/preferences.glade:1132
+msgid "Location estimation"
+msgstr ""
+
+#: 5.4/res/preferences.glade:1167
+msgid "Interval time to refresh location via network (min)"
+msgstr ""
+
+#: 5.4/res/preferences.glade:1212
+msgid "Location provider"
+msgstr ""
+
+#: 5.4/res/preferences.glade:1274
+msgid "Latitude"
+msgstr ""
+
+#: 5.4/res/preferences.glade:1317
+msgid "Longitude"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2461
+msgid "Location & Times"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2480
+msgid "Scaling"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2519
+msgid "Picture aspect"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2556
+msgid "Login Screen"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2593
+msgid "Set the background image as Login Screen background"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2630
+msgid "Dynamic Background color"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2667
+msgid "Use dynamic Background color to create a gradient"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2714
+msgid "Behaviour"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2733
+msgid "About the project"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2834
+msgid "Source Code"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2899
+msgid "Issues and Enhancements"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2964
+msgid "About"
+msgstr ""
+
+#: 5.4/res/preferences.glade:2992
+msgid "Apply and close this window"
+msgstr ""
+
+#: 5.4/res/preferences.glade:3004
+msgid "Apply the settings without closing this window"
+msgstr ""
